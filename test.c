@@ -4,6 +4,6 @@ int main(){
 
     printf("branch\n");
     printf("merged");
-    printf("first");
+    printf("second");
     return 0;
 }
